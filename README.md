@@ -6,7 +6,7 @@ submissions asynchronously, with Docker-based sandboxing for safe execution of
 untrusted code.
 
 ## Status
-Ongoing — final-year project (Team of 4)
+final-year Major project (Team of 4)
 
 ## My Role
 System design contribution and coordination across modules (Docker sandboxing,
